@@ -6,7 +6,6 @@ import { useRouter } from "next/navigation";
 import { Encargo, FiltroEstado, EstadoEncargo } from "@/src/types/encargo";
 import HistorialEncargo from "@/components/HistorialEncargo";
 import ComentariosEncargo from "@/components/ComentariosEncargo";
-import SubirImagenEncargo from "@/components/SubirImagenEncargo";
 import ImagenesEncargo from "@/components/ImagenesEncargo";
 
 /* =====================

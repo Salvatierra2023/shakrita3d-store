@@ -49,7 +49,7 @@ export default function Footer() {
                 <li>
                 📲{" "}
                 <a
-                    href="https://wa.me/51999999999"
+                    href="https://wa.me/51927802124"
                     target="_blank"
                     className="hover:text-white transition"
                 >
